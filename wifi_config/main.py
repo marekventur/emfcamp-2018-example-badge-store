@@ -1,1 +1,2 @@
-# wifi config app
+### description: wifi config app
+### categories: config
