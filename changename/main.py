@@ -1,5 +1,6 @@
-### Description: Change your name
-### Categories: Settings
+### description: Change your name
+### categories: Settings
+### license: MIT
 
 import dialogs
 from database import Database

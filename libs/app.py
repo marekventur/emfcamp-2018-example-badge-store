@@ -1,4 +1,5 @@
 ### description: Model and Helpers for TiLDA apps and the App Library API
+### license: MIT
 
 import os
 import ure

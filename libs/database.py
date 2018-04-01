@@ -1,4 +1,5 @@
-### Description: A simple json backed key/value store
+### description: A simple json backed key/value store
+### license: MIT
 
 import os
 import json

@@ -1,4 +1,5 @@
 ### description: updates and installs apps. To publish apps use https://badge.emfcamp.org
+### license: MIT
 
 import pyb
 import ugfx

@@ -1,4 +1,5 @@
 ### description: Small set of micropython specific filesystem helpers
+### license: MIT
 
 import os
 import hashlib

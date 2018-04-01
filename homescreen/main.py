@@ -1,4 +1,5 @@
 ### description: Homescreen
+### license: MIT
 
 import ugfx, db
 

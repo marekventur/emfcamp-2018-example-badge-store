@@ -1,4 +1,5 @@
 ### Description: Convenience methods for dealing with the TiLDA buttons
+### license: MIT
 
 import pyb
 import onboard

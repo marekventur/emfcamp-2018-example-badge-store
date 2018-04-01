@@ -1,4 +1,5 @@
-### Description: A basic HTTP library, based on https://github.com/balloob/micropython-http-client
+### description: A basic HTTP library, based on https://github.com/balloob/micropython-http-client
+### license: MIT
 
 import usocket
 import ujson

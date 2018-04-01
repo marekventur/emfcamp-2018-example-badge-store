@@ -1,3 +1,6 @@
+### description: MQTT library
+### license: MIT
+
 import wifi
 import usocket as socket
 import ustruct as struct

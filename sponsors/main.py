@@ -1,7 +1,6 @@
-### Author: EMF Badge team
-### Description: Shows all the sponsors that have helped make this badge possible
-### Category: Other
-### License: MIT
+### description: Shows all the sponsors that have helped make this badge possible
+### categories: Other
+### license: MIT
 
 import ugfx, pyb, buttons
 

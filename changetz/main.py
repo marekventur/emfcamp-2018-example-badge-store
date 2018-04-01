@@ -1,5 +1,6 @@
-### Description: Change timezone settings
+### description: Change timezone settings
 ### categories: Settings
+### license: MIT
 
 import pyb
 import dialogs

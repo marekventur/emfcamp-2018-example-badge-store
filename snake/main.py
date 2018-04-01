@@ -1,9 +1,6 @@
-### Author: EMF Badge team
-### Description: Snake!
-### Category: Games
-### License: MIT
-### Appname: Snake!
-### Built-in: yes
+### description: Snake!
+### categories: Games
+### license: MIT
 
 import pyb
 import math
@@ -108,7 +105,7 @@ def one_round():
 
 		pyb.delay(100)
 	return score
-	
+
 playing = 1
 while playing:
 	score = one_round()

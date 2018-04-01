@@ -1,4 +1,5 @@
-### Description: Allows access to IMU on the TiLDA
+### description: Allows access to IMU on the TiLDA
+### license: MIT
 
 import pyb, ustruct
 

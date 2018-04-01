@@ -1,3 +1,6 @@
+### description: exposes information from internal sensors
+### license: MIT
+
 import pyb
 import stm
 
@@ -37,7 +40,7 @@ def get_battery_voltage():
 def get_battery_percentage():
 	v = get_unreg_voltage()
 	return int( (v-3.7) / (4.15-3.7) * 100)
-	
+
 def get_light():
 	global light_obj
 	return light_obj.read()

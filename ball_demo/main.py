@@ -1,5 +1,6 @@
-### Description: A python port of the UGFX ball demo
-### Categories: Examples
+### description: A python port of the UGFX ball demo
+### categories: examples
+### license: MIT
 
 # Copyright (c) 2012, 2013, Joel Bodenmann aka Tectu <joel@unormal.org>
 # Copyright (c) 2012, 2013, Andrew Hannam aka inmarket

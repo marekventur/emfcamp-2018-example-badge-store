@@ -1,4 +1,5 @@
-### Description: Some basic UGFX powered dialogs
+### description: Some basic UGFX powered dialogs
+### license: MIT
 
 import ugfx
 import buttons

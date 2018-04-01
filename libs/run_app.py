@@ -1,3 +1,5 @@
+### description: helper function to run apps
+### license: MIT
 
 def reset_and_run(path):
 	import pyb

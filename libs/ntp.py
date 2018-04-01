@@ -1,4 +1,5 @@
-### Description: Update the badge's time via NTP
+### description: Update the badge's time via NTP
+### license: MIT
 
 import database
 import socket

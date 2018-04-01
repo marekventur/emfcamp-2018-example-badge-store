@@ -1,4 +1,5 @@
-### Description: Handles connecting to a wifi access point based on a valid wifi.json file
+### description: Handles connecting to a wifi access point based on a valid wifi.json file
+### license: MIT
 
 import network
 import os
