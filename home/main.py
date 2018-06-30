@@ -1,5 +1,6 @@
 ### description: Main app
 ### categories: Other
+### license: MIT
 
 import os
 import json
