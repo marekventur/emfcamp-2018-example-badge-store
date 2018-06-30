@@ -1,0 +1,5 @@
+language: python
+script:
+- curl -f http://badge.marekventur.com/
+- echo "TRAVIS_COMMIT $TRAVIS_COMMIT"
+- echo "TRAVIS_REPO_SLUG $TRAVIS_REPO_SLUG"
