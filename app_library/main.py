@@ -1,4 +1,4 @@
-### description: updates and installs apps. To publish apps use https://badge.emfcamp.org
+### description: distinct description
 ### license: MIT
 
 import pyb
