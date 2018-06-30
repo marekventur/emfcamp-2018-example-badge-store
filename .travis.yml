@@ -1,5 +1,3 @@
 language: python
 script:
 - curl -f "http://badge.marekventur.com/repo/$TRAVIS_REPO_SLUG/ref/$TRAVIS_COMMIT"
-- echo "TRAVIS_COMMIT $TRAVIS_COMMIT"
-- echo "TRAVIS_REPO_SLUG $TRAVIS_REPO_SLUG"
