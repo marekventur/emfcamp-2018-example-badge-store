@@ -1,4 +1,3 @@
-"""Main app"""
 
 ___categories___ = ["Other"]
 ___license___ = "MIT"
