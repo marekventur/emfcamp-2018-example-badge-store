@@ -1,5 +1,6 @@
-### description: Allows access to IMU on the TiLDA
-### license: MIT
+"""Allows access to IMU on the TiLDA"""
+
+___license___ = "MIT"
 
 import pyb, ustruct
 

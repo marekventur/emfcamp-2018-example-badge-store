@@ -1,3 +1,4 @@
-### description: wifi config app
-### categories: config
-### license: MIT
+"""wifi config app"""
+
+___categories___ = ["config"]
+___license___ = "MIT"

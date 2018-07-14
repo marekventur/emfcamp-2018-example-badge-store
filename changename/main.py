@@ -1,6 +1,8 @@
-### description: Change your name
-### categories: Settings
-### license: MIT
+"""Change your name"""
+
+___categories___ = ["settings"]
+___license___ = "MIT"
+___dependencies___ = ["dialogs", "buttons"]
 
 import dialogs
 from database import Database

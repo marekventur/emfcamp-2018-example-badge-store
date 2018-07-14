@@ -1,6 +1,7 @@
-### description: Snake!
-### categories: Games
-### license: MIT
+"""Snake!"""
+___categories___ = ["Games"]
+___license___ = "MIT"
+___dependencies___ = ["buttons"]
 
 import pyb
 import math

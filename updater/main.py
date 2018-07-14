@@ -1,2 +1,2 @@
-### description: App that lets users update their badge
-### license: MIT
+"""App that lets users update their badge"""
+___license___ = "MIT"

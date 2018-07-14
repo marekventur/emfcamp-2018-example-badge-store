@@ -1,5 +1,7 @@
-### description: A basic HTTP library, based on https://github.com/balloob/micropython-http-client
-### license: MIT
+"""A basic HTTP library, based on https://github.com/balloob/micropython-http-client"""
+
+___license___ = "MIT"
+___dependencies___ = ["wifi"]
 
 import usocket
 import ujson

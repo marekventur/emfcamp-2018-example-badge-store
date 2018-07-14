@@ -1,5 +1,6 @@
-### description: A simple json backed key/value store
-### license: MIT
+"""A simple json backed key/value store"""
+
+___license___ = "MIT"
 
 import os
 import json

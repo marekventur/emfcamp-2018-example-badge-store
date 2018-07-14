@@ -1,6 +1,6 @@
-### description: Shows all the sponsors that have helped make this badge possible
-### categories: Other
-### license: MIT
+"""Shows all the sponsors that have helped make this badge possible"""
+___categories___ = ["Other"]
+___license___    = "MIT"
 
 import ugfx, pyb, buttons
 

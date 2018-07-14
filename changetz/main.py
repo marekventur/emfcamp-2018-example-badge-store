@@ -1,6 +1,8 @@
-### description: Change timezone settings
-### categories: Settings
-### license: MIT
+"""Change timezone settings"""
+
+___categories___ = ["Settings"]
+___license___ = "MIT"
+___dependencies___ = ["dialogs", "database"]
 
 import pyb
 import dialogs

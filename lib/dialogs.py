@@ -1,5 +1,7 @@
-### description: Some basic UGFX powered dialogs
-### license: MIT
+"""Some basic UGFX powered dialogs"""
+
+___license___ = "MIT"
+___dependencies___ = ["buttons"]
 
 import ugfx
 import buttons

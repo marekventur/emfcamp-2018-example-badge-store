@@ -1,5 +1,7 @@
-### Description: Convenience methods for dealing with the TiLDA buttons
-### license: MIT
+"""Convenience methods for dealing with the TiLDA buttons"""
+
+___license___ = "MIT"
+___dependencies___ = ["onboard"]
 
 import pyb
 import onboard

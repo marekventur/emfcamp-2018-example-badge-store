@@ -1,5 +1,6 @@
-### description: exposes information from internal sensors
-### license: MIT
+"""exposes information from internal sensors"""
+
+___license___ = "MIT"
 
 import pyb
 import stm

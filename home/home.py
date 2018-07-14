@@ -1,9 +1,9 @@
-### Author: EMF Badge team
-### Description: Main app
-### Category: Other
-### License: MIT
-### Appname: Home
-### Built-in: hide
+"""Main app"""
+___categories___ = ["homescreen"]
+___license___    = "MIT"
+___title___      = "Home"
+__launchable__   = False
+__bootstrapped__ = True
 
 
 import ugfx

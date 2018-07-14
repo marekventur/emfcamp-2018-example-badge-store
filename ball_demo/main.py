@@ -1,6 +1,8 @@
-### description: A python port of the UGFX ball demo
-### categories: examples
-### license: MIT
+"""A python port of the UGFX ball demo"""
+
+___categories___ = ["examples"]
+___license___ = "MIT"
+___dependencies___ = ["buttons"]
 
 # Copyright (c) 2012, 2013, Joel Bodenmann aka Tectu <joel@unormal.org>
 # Copyright (c) 2012, 2013, Andrew Hannam aka inmarket

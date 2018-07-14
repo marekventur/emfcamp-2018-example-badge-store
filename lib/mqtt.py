@@ -1,5 +1,6 @@
-### description: MQTT library
-### license: MIT
+"""MQTT library"""
+
+___license___ = "MIT"
 
 import wifi
 import usocket as socket

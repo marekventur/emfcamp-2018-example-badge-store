@@ -1,5 +1,7 @@
-### description: helper function to run apps
-### license: MIT
+"""helper function to run apps"""
+
+___license___ = "MIT"
+___dependencies___ = ["buttons"]
 
 def reset_and_run(path):
 	import pyb

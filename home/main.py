@@ -1,6 +1,7 @@
-### description: Main app
-### categories: Other
-### license: MIT
+"""Main app"""
+
+___categories___ = ["Other"]
+___license___ = "MIT"
 
 import os
 import json

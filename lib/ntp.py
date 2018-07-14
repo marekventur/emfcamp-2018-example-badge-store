@@ -1,5 +1,7 @@
-### description: Update the badge's time via NTP
-### license: MIT
+"""Update the badge's time via NTP"""
+
+___license___ = "MIT"
+___dependencies___ = ["database"]
 
 import database
 import socket

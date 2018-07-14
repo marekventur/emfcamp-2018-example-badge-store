@@ -1,5 +1,7 @@
-### description: Model and Helpers for TiLDA apps and the App Library API
-### license: MIT
+"""Model and Helpers for TiLDA apps and the App Library API"""
+
+___license___ = "MIT"
+___dependencies___ = ["http_client", "filesystem"]
 
 import os
 import ure

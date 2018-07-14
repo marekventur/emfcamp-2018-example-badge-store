@@ -1,5 +1,7 @@
-### description: updates and installs apps. To publish apps use https://badge.emfcamp.org
-### license: MIT
+"""updates and installs apps. To publish apps use https://badge.emfcamp.org"""
+
+___license___ = "MIT"
+___dependencies___ = ["wifi", "dialogs", "http_client", "app", "filesystem"]
 
 import pyb
 import ugfx

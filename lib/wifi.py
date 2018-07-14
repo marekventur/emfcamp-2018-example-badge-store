@@ -1,5 +1,7 @@
-### description: Handles connecting to a wifi access point based on a valid wifi.json file
-### license: MIT
+"""Handles connecting to a wifi access point based on a valid wifi.json file"""
+
+___license___ = "MIT"
+___dependencies___ = ["dialogs"]
 
 import network
 import os

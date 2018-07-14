@@ -1,5 +1,6 @@
-### description: Small set of micropython specific filesystem helpers
-### license: MIT
+"""Small set of micropython specific filesystem helpers"""
+
+___license___ = "MIT"
 
 import os
 import hashlib
